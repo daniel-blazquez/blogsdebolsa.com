@@ -10,3 +10,7 @@ Lylina is in turn built on top of another project, Lilina. Lyline adds MySQL sup
 -Generation of RSS feed
 -CSS style modifications
 -Some fields added to the source profile (source site URL)
+
+
+![Alt text](https://github.com/daniel-blazquez/blogsdebolsa.com/home1.png)
+
