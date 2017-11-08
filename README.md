@@ -12,5 +12,5 @@ Lylina is in turn built on top of another project, Lilina. Lyline adds MySQL sup
 -Some fields added to the source profile (source site URL)
 
 
-![Alt text](https://github.com/daniel-blazquez/blogsdebolsa.com/home1.png)
+![Alt text](https://github.com/daniel-blazquez/blogsdebolsa.com/blob/master/home1.png "Aggregated content from multiple RSS sources combined in a single webview")
 
